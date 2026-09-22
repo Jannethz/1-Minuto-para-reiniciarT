@@ -1,0 +1,6 @@
+{
+  "name": "Plexo de Kiesselbach & Epistaxis Anterior - Presentación Médica Interactiva",
+  "description": "Presentación médica interactiva y guía de diseño anatómico del Plexo de Kiesselbach (Área de Little), su irrigación arterial y correlación clínica con la epistaxis anterior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
